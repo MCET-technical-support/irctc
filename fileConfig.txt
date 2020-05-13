@@ -1,0 +1,11 @@
+
+
+FOLDERs for Server side--
+
+    1. module        // for database;
+    2. routes        // for paking path or url
+    3. views         // ejs or front pages container 
+    4. index.js      // main js file or entry point point
+
+
+
