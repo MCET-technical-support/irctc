@@ -3,7 +3,7 @@ const router = express.Router();
 
 router.get('/', (req, res) => {
     // res.send('booking')
-    res.render('bookingPage');
+    res.render('bookingPage', {user:'pritam'});
 });
 
 
